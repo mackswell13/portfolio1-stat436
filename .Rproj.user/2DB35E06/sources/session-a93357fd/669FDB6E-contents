@@ -1,0 +1,11 @@
+
+GETTING STARTED×
+Hi! You must be new here...
+Thanks for trying out shinyapps.io! You'll need to install the rsconnect R package or rsconnect-python Python package to get started. These packages enable you to deploy and manage your Shiny applications directly from your local environment. To get started, fire up your favorite IDE, and follow the directions below.
+
+Start with R
+Start with Python
+STEP 1 – INSTALL RSCONNECT
+The rsconnect package can be installed directly from CRAN. To make sure you have the latest version run following code in your R console:
+
+install.packages('rsconnect')
